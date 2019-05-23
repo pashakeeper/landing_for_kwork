@@ -2,8 +2,259 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c247d4f-777f-4186-a5a6-3207ee3d710b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-BlackItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ExtraLightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Montserrat-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/browser_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/dot_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/left-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/list-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/partners1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/partners2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/partners3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/partners4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/port_img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/port_img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/port_img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/port_img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/port_img5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/port_img6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/post_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/prefooter_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/section_bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/section_bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/section_bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/animate-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/_base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/headShake.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/heartBeat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/jello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/pulse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/rubberBand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/shake.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/swing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/tada.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/attention_seekers/wobble.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_entrances/bounceIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_entrances/bounceInDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_entrances/bounceInLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_entrances/bounceInRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_entrances/bounceInUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_exits/bounceOut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_exits/bounceOutDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_exits/bounceOutLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_exits/bounceOutRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/bouncing_exits/bounceOutUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInDownBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInLeftBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInRightBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_entrances/fadeInUpBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutDownBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutLeftBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutRightBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/fading_exits/fadeOutUpBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/flippers/flip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/flippers/flipInX.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/flippers/flipInY.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/flippers/flipOutX.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/flippers/flipOutY.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/lightspeed/lightSpeedIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/lightspeed/lightSpeedOut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_entrances/rotateIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_entrances/rotateInDownLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_entrances/rotateInDownRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_entrances/rotateInUpLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_entrances/rotateInUpRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_exits/rotateOut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_exits/rotateOutDownLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_exits/rotateOutDownRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_exits/rotateOutUpLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/rotating_exits/rotateOutUpRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_entrances/slideInDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_entrances/slideInLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_entrances/slideInRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_entrances/slideInUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_exits/slideOutDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_exits/slideOutLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_exits/slideOutRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/sliding_exits/slideOutUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/specials/hinge.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/specials/jackInTheBox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/specials/rollIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/specials/rollOut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_entrances/zoomIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_entrances/zoomInDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_entrances/zoomInLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_entrances/zoomInRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_entrances/zoomInUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_exits/zoomOut.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_exits/zoomOutDown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_exits/zoomOutLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_exits/zoomOutRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/animate.css/source/zooming_exits/zoomOutUp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/334@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/334@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/33@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/33@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/3@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/3@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/4545.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/4545@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/4545@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/4@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/4@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background-color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background-color@2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background-color@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background-color@3x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background-color@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/background@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/cards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/cards@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/cards@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/chevronRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/chevronRight@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/chevronRight@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/daymon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/daymon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/daymon@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/download-on-the-app-store-badge-us-uk-blk-092917_2019-05-02/download-on-the-app-store-badge-us-uk-blk-092917.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/download-on-the-app-store-badge-us-uk-blk-092917_2019-05-02/download-on-the-app-store-badge-us-uk-blk-092917@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/download-on-the-app-store-badge-us-uk-blk-092917_2019-05-02/download-on-the-app-store-badge-us-uk-blk-092917@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/fourth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/fourth@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/fourth@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/google-play-badge_2019-05-02/google-play-badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/google-play-badge_2019-05-02/google-play-badge@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/google-play-badge_2019-05-02/google-play-badge@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/group-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/group-6@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/group-6@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/i-phone-x-clay-white-perspective-free-mockup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/i-phone-x-clay-white-perspective-free-mockup@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/i-phone-x-clay-white-perspective-free-mockup@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img2@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img2@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img3@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/img3@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/map@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/one1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/one1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/one1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/one@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/one@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/ramka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/ramka@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/ramka@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/three1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/three1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/three1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/three@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/three@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/two1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/two1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/two1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/two@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/two@3x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/libs.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/libs.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +262,68 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1537599366">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bowerrc" value="1" />
+          <entry key="css" value="6" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="1" />
+          <entry key="js" value="3" />
+          <entry key="json" value="1" />
+          <entry key="sass" value="1" />
+          <entry key="scss" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SCSS" value="2" />
+          <entry key="Sass" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bowerrc" value="4" />
+          <entry key="gitignore" value="7" />
+          <entry key="html" value="2235" />
+          <entry key="js" value="77" />
+          <entry key="sass" value="46" />
+          <entry key="scss" value="3921" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2235" />
+          <entry key="JavaScript" value="77" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="SCSS" value="3921" />
+          <entry key="Sass" value="46" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.bowerrc">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,20 +333,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="816">
+              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -48,8 +345,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10931">
+              <caret line="643" column="24" selection-start-line="643" selection-start-column="24" selection-end-line="643" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/media.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/css/media.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/css/libs.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -59,27 +384,62 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/libs.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ninth_section</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.bowerrc" />
-        <option value="$PROJECT_DIR$/app/sass/style.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/sass/libs.sass" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/media.scss" />
+        <option value="$PROJECT_DIR$/app/sass/style.scss" />
+        <option value="$PROJECT_DIR$/app/js/script.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="92" />
-    <option name="width" value="1026" />
-    <option name="height" value="554" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/libs/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/bootstrap4/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -90,8 +450,37 @@
         <subPane>
           <expand>
             <path>
-              <item name="landing_for_kwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="landing_for_kwork" type="462c0819:PsiDirectoryNode" />
+              <item name="LandingForSkype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LandingForSkype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LandingForSkype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LandingForSkype" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LandingForSkype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LandingForSkype" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LandingForSkype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LandingForSkype" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LandingForSkype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LandingForSkype" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LandingForSkype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LandingForSkype" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,7 +489,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -109,6 +497,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/fonts" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
@@ -135,24 +524,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558537516111</updated>
-      <workItem from="1558537517431" duration="607000" />
-      <workItem from="1558562447632" duration="1101000" />
+      <workItem from="1558537517431" duration="1012000" />
+      <workItem from="1558600315558" duration="15553000" />
+      <workItem from="1558623923476" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1708000" />
+    <option name="totallyTimeSpent" value="16941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -160,7 +549,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32826748" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -171,12 +560,27 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/css/libs.css">
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/libs.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fonts/font-face.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.bowerrc">
@@ -186,27 +590,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="816">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10931">
+          <caret line="643" column="24" selection-start-line="643" selection-start-column="24" selection-end-line="643" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/media.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/libs.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/sass/libs.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="17">
+          <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="153">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
